@@ -1,3 +1,4 @@
+<img width="1137" height="818" alt="Screenshot 2025-10-08 105315" src="https://github.com/user-attachments/assets/5665e0c9-6a04-4cc1-8311-dfc9dd1863b8" />
 # EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
 ## Date:
 
